@@ -33,9 +33,10 @@ Brent
 
 ## Screenshot Proof
 
-[View the Screenshot on Google Docs](https://your-docs-link-here)
+[View the Screenshot on Google Docs]
+https://docs.google.com/document/d/1lQQ12Rw9wwK0gzEgaX1Fse0HlIZfkTtqFWMUeDi05tM/edit?tab=t.0
 
-*The screenshot shows Gmail with the file `i washed the dishes in the house.png` successfully attached.*
+*The screenshot shows Gmail with the file ` washed-dishes-proof.png` successfully attached.*
 
 ---
 
