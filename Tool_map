@@ -2,6 +2,10 @@
 
 Gmail-for-VA-Learning/
 │
+├── level_0_introduction/             
+│   ├── 00-why-gmail-for-va.md
+│   └── 00-setup-gmail-account.md
+│
 ├── level_1_basic_usage/
 │   ├── 01-send-receive-email.md
 │   ├── 02-undo-send-setup.md
@@ -36,5 +40,12 @@ Gmail-for-VA-Learning/
 │   ├── 23-use-grammarly-in-gmail.md
 │   ├── 24-install-boomerang.md
 │   └── 25-embed-loom-video-in-email.md
+│
+├── level_6_advanced_gmail_tips/
+│   ├── 26-use-multiple-inboxes.md
+│   ├── 27-gmail-delegation.md
+│   ├── 28-gmail-offline.md
+│   ├── 29-manage-email-signatures.md
+│   └── 30-multiple-email-aliases.md
 │
 └── roadmap.md
